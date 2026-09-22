@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "cca643c6fd0be6dcdfda2778",
+  "owner": "efhhynrkm",
+  "repo": "page-9d13f6f3b2472ac063f1b5fd",
+  "title": "闪电熊",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "9d13f6f3b2472ac063f1b5fd",
+      "a": "闪电熊",
+      "b": "稳定全球clash加速器",
+      "entity": "闪电熊",
+      "brand": "闪电熊",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "ad01b85bc8c6095c68abf96408903bef098a223606273ba6a4b9e8431f6d44a4",
+      "content": {
+        "primary_entity": "闪电熊",
+        "keyword1": "闪电熊",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_DESCRIPTION": "，闪电熊以 Clash 订阅为核心，提供按月或按年计费的加速方案，基础版适合单人日常使用，旗舰版兼顾多设备与流媒体需求，团队版面向多人共享和高带宽场景，节点覆盖常用地区，客户端配置简单，按设备数量与流量选择合适套餐即可。",
+          "AI_HERO_SUBTITLE": "闪电熊 Clash 加速方案",
+          "AI_HERO_INTRO": "闪电熊为 Clash 用户提供稳定的全球加速订阅，从基础版到团队版覆盖不同设备数量与流量需求，按月或按年灵活选择。",
+          "AI_VISUAL_TITLE": "闪电熊 Clash 加速",
+          "AI_HIGHLIGHT_1": "三档套餐按需选择",
+          "AI_HIGHLIGHT_2": "支持多设备同时在线",
+          "AI_HIGHLIGHT_3": "年付更省，按月灵活",
+          "AI_FEATURES_TITLE": "选择与配置要点",
+          "AI_FEATURES_INTRO": "从设备数量、流量和订阅周期出发，快速找到合适的闪电熊套餐。",
+          "AI_FEATURE_TITLE_1": "按设备数选套餐",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台，可覆盖手机、电脑与平板。",
+          "AI_FEATURE_TITLE_2": "按流量定档位",
+          "AI_FEATURE_TEXT_2": "每月 100GB 适合轻度使用，300GB 满足流媒体与多任务，1000GB 适合团队共享。",
+          "AI_FEATURE_TITLE_3": "订阅周期灵活",
+          "AI_FEATURE_TEXT_3": "基础版 ¥15/月，年付 ¥150/年；旗舰版 ¥35/月，年付 ¥350/年；团队版 ¥85/月，年付 ¥850/年。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "根据设备系统选择 Clash 客户端，并参考对应客户端文档导入订阅。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版、旗舰版与团队版在流量、设备数和节点权益上逐级提升，按使用人数和带宽需求对比选择。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_GUIDE_INTRO": "从选择服务到完成订阅配置，按步骤操作即可。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TEXT_1": "根据设备数量与月流量需求，在基础版、旗舰版、团队版中选定套餐并完成订阅。",
+          "AI_STEP_TITLE_2": "确认设备与套餐匹配",
+          "AI_STEP_TEXT_2": "基础版 3 台、旗舰版 5 台、团队版 20 台设备，购买前对照自有设备数量选择对应档位。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "打开设备上的 Clash 客户端，按客户端文档导入订阅链接并启用代理。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "闪电熊套餐选择",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求，挑选合适套餐并完成订阅配置。",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、支持 3 台设备；旗舰版每月 300GB、支持 5 台设备；团队版每月 1000GB、支持 20 台设备。按人数与流量需求选择即可。",
+          "AI_FAQ_ANSWER_2": "普通线路适合日常浏览与基础流媒体；旗舰版与团队版提供 IPLC 专线及 VIP 高带宽节点，适合游戏加速、高码率视频与企业定制路由。",
+          "AI_FAQ_ANSWER_3": "闪电熊套餐支持年付，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，长期使用年付折算月成本更低。",
+          "AI_FAQ_ANSWER_4": "在合规客户端中导入订阅链接即可使用，各平台配置方式不同，请对照对应客户端文档完成设置，不涉及额外安装来源不明的程序。",
+          "AI_FAQ_ANSWER_5": "旗舰版提供 7x24 优先工单支持，团队版配备专属客户经理，设备数量与流量不足时可随时升级套餐。",
+          "AI_FAQ_QUESTION_1": "闪电熊三档套餐在流量和设备数量上有什么区别？",
+          "AI_FAQ_QUESTION_2": "普通线路与 IPLC 专线分别适合什么场景？",
+          "AI_FAQ_QUESTION_3": "闪电熊支持年付吗，年付价格是多少？",
+          "AI_FAQ_QUESTION_4": "订阅配置需要安装额外软件吗？",
+          "AI_FAQ_QUESTION_5": "使用中遇到问题或设备超额如何获得支持？",
+          "AI_FAQ_TITLE": "闪电熊常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "w6s17l.cn",
+    "host": "w6s17l.cn"
+  },
+  "file_hashes": {
+    "index.html": "9acbb096672a60f03305b30971503744dc803d5980c20343e34d2ce1aecf82ed",
+    "sitemap.xml": "7ef6a9503c5536cf71c8e4d826820b9eb59b3f039f8c47624845d5ebbe1cb51d",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "daece72ecb2cd2ac608520a7a6bcb135f8928085b5f4fae4ec342c9f607a46b7",
+    "robots.txt": "986989c07155b075a2c5828271149a31ed4876dcf3936c40c7b50373aba414c5",
+    "08defc4082e31e2e4f475050a326a43a.txt": "5bde9e5548d8db86290d5afd5ad8fa19bf0e48398cf0b2d4809e749372fbf267"
+  },
+  "revision": "d1350bd1a70021eff4523b7b652e432e47ad832ca88d94571dd74b12a2c469d1"
+}
